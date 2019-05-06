@@ -17,9 +17,9 @@ LeetCode practise in Python3.
 | 344 | [Reverse String][344]                     | String            | 反转字符串               |
 | 387 | [First Unique Character in a String][387] | String            | 字符串中的第一个唯一字符 |
 
-[1]: https://github.com/mantoudev/algorithms-practice/blob/master/01_LeetCode/001.%20Two%20Sum/README.md
-[136]: 
+[1]: https://github.com/mantoudev/algorithms-practice/tree/master/01_LeetCode/001.%20Two%20Sum
 [26]: https://github.com/mantoudev/algorithms-practice/blob/master/01_LeetCode/026.%20Remove%20Duplicates%20from%20Sorted%20Array/README.md
+[136]: https://github.com/mantoudev/algorithms-practice/tree/master/01_LeetCode/136.%20Single%20Number
 [206]: https://github.com/mantoudev/algorithms-practice/blob/master/01_LeetCode/206.%20Reverse%20Linked%20List/README.md
 [203]: https://github.com/mantoudev/algorithms-practice/blob/master/01_LeetCode/203.%20Remove%20Linked%20List%20Elements/README.md
 [344]: https://github.com/mantoudev/algorithms-practice/edit/master/01_LeetCode/344.%20Reverse%20String/README.md
