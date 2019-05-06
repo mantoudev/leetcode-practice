@@ -1,6 +1,5 @@
 # Algorithms Practice
 Algorithms and data-structures practice in Python3 or Java.
-
 - [LeetCode](#LeetCode)
 - [Others](#Others)
 
