@@ -23,6 +23,6 @@ Output: 4
 ## Solution
 
 #### 思路
-由于 0^a = a，a^a = 0 而数组中除了一个数字是只出现一次的，其他数字均出现两次，则可以采用此思路来解答这个问题。 
+由于 0^a = a，a^a = 0 而数组中除了一个数字是只出现一次的，其他数字均出现两次，则可以采用此思路来解答这个问题。
 
 [leetcode url]: https://leetcode.com/problems/single-number/
