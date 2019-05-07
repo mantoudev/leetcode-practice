@@ -1,6 +1,7 @@
 # 3. Longest Substring Without Repeating Characters
 > [LeetCode Url][leetcode url]
 
+## Description
 Given a string, find the length of the longest substring without repeating characters.
 
 **Example 1:**
