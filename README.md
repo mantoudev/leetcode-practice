@@ -6,18 +6,20 @@ Algorithms and data-structures practice in Python3 or Java.
 ## LeetCode
 LeetCode practise in Python3.
 
-| #   | Title                                     | Tag               | Desc_CN                  |
-| --- | ----------------------------------------- | ----------------- | ------------------------ |
-| 1   | [Two Sum][1]                              | Array, Hash Table | 两数之和                 |
-| 26  | [Remove Duplicates from Sorted Array][26] | Array             | 从排序数组中删除重复项   |
-| 136 | [Single Number][136]                      | Math              | 只出现一次的数字         |
-| 169 | [Majority Element][169]                   | Math              | 求众数                   |
-| 203 | [Remove Linked List Elements][203]        | LinkedList        | 单链表删除节点           |
-| 206 | [Reverse Linked List][206]                | LinkedList        | 单链表反转               |
-| 344 | [Reverse String][344]                     | String            | 反转字符串               |
-| 387 | [First Unique Character in a String][387] | String            | 字符串中的第一个唯一字符 |
+| #   | Title                                               | Tag                    | Desc_CN                  |
+| --- | --------------------------------------------------- | ---------------------- | ------------------------ |
+| 001 | [Two Sum][1]                                        | Array, Hash Table      | 两数之和                 |
+| 003 | [Longest Substring Without Repeating Characters][3] | String, Sliding Window | 无重复字符的最长子串     |
+| 026 | [Remove Duplicates from Sorted Array][26]           | Array                  | 从排序数组中删除重复项   |
+| 136 | [Single Number][136]                                | Math                   | 只出现一次的数字         |
+| 169 | [Majority Element][169]                             | Math                   | 求众数                   |
+| 203 | [Remove Linked List Elements][203]                  | LinkedList             | 单链表删除节点           |
+| 206 | [Reverse Linked List][206]                          | LinkedList             | 单链表反转               |
+| 344 | [Reverse String][344]                               | String                 | 反转字符串               |
+| 387 | [First Unique Character in a String][387]           | String                 | 字符串中的第一个唯一字符 |
 
 [1]: https://github.com/mantoudev/algorithms-practice/tree/master/01_LeetCode/001.%20Two%20Sum
+[3]: https://github.com/mantoudev/algorithms-practice/tree/master/01_LeetCode/003.%20Longest%20Substring%20Without%20Repeating%20Characters
 [26]: https://github.com/mantoudev/algorithms-practice/blob/master/01_LeetCode/026.%20Remove%20Duplicates%20from%20Sorted%20Array/README.md
 [136]: https://github.com/mantoudev/algorithms-practice/tree/master/01_LeetCode/136.%20Single%20Number
 [169]: https://github.com/mantoudev/algorithms-practice/tree/master/01_LeetCode/139.%20Majority.%20Element
