@@ -23,7 +23,7 @@ LeetCode practise in Python3.
 
 [1]: https://github.com/mantoudev/algorithms-practice/tree/master/01_LeetCode/001.%20Two%20Sum
 [3]: https://github.com/mantoudev/algorithms-practice/tree/master/01_LeetCode/003.%20Longest%20Substring%20Without%20Repeating%20Characters
-[14]:
+[14]: https://github.com/mantoudev/algorithms-practice/tree/master/01_LeetCode/014.%20Longest%20Common%20Prefix
 [26]: https://github.com/mantoudev/algorithms-practice/blob/master/01_LeetCode/026.%20Remove%20Duplicates%20from%20Sorted%20Array/README.md
 [136]: https://github.com/mantoudev/algorithms-practice/tree/master/01_LeetCode/136.%20Single%20Number
 [169]: https://github.com/mantoudev/algorithms-practice/tree/master/01_LeetCode/139.%20Majority.%20Element
