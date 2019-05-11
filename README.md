@@ -4,7 +4,7 @@ Algorithms and data-structures practice in Python3 or Java.
 - [Others](#Others)
 
 ## LeetCode
-LeetCode practise in Python3.
+LeetCode practise in Python3 && Java.
 
 | #   | Title                                               | Tag                    | Desc_CN                  |
 | --- | --------------------------------------------------- | ---------------------- | ------------------------ |
