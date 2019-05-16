@@ -17,7 +17,9 @@ LeetCode practise in Python3 && Java.
 | 122 | [Best Time to Buy and Sell Stock II][122]             | DP                     | 买卖股票的最佳时机2      |
 | 123 | [Best Time to Buy and Sell Stock III][123]            | DP                     | 买卖股票的最佳时机3      |
 | 125 | [Valid Palindrome][125]                               | String,Pointer         | 验证回文串               |
+| 131 | [Palindrome Partitioning][131]                        | DFS，Backtracking      | 分割回文串               |
 | 136 | [Single Number][136]                                  | Math                   | 只出现一次的数字         |
+| 139 | [Word Break][139]                                     | DP                     | 单词拆分                 |
 | 169 | [Majority Element][169]                               | Math                   | 求众数                   |
 | 203 | [Remove Linked List Elements][203]                    | LinkedList             | 单链表删除节点           |
 | 206 | [Reverse Linked List][206]                            | LinkedList             | 单链表反转               |
@@ -35,7 +37,9 @@ LeetCode practise in Python3 && Java.
 [122]: https://github.com/mantoudev/algorithms-practice/tree/master/01_LeetCode/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II
 [123]: https://github.com/mantoudev/algorithms-practice/tree/master/01_LeetCode/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III
 [125]: https://github.com/mantoudev/algorithms-practice/tree/master/01_LeetCode/125.%20Valid%20Palindrome
+[131]: https://github.com/mantoudev/algorithms-practice/tree/master/01_LeetCode/131.%20Palindrome%20Partitioning
 [136]: https://github.com/mantoudev/algorithms-practice/tree/master/01_LeetCode/136.%20Single%20Number
+[139]: https://github.com/mantoudev/algorithms-practice/tree/master/01_LeetCode/139.%20Word%20Break
 [169]: https://github.com/mantoudev/algorithms-practice/tree/master/01_LeetCode/139.%20Majority.%20Element
 [206]: https://github.com/mantoudev/algorithms-practice/blob/master/01_LeetCode/206.%20Reverse%20Linked%20List/README.md
 [203]: https://github.com/mantoudev/algorithms-practice/blob/master/01_LeetCode/203.%20Remove%20Linked%20List%20Elements/README.md

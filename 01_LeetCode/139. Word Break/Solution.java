@@ -2,6 +2,7 @@ class Solution {
     public boolean wordBreak(String s, List<String> wordDict) {
         int len = s.length();
         int max_len = 0;
+        // result[i]表示 s中 i-1结尾的字符是否可被拆分
         boolean[] result = new boolean[len + 1];
         // 最大单词长度
         for (String temp : wordDict){
