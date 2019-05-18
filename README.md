@@ -27,7 +27,6 @@ LeetCode practise in Python3 && Java.
 | 387 | [First Unique Character in a String][387]             | String                 | 字符串中的第一个唯一字符 |
 | 567 | [Permutation in String][567]                          | String, Sliding Window | 字符串的排列             |
 
-
 [001]: https://github.com/mantoudev/algorithms-practice/tree/master/01_LeetCode/001.%20Two%20Sum
 [003]: https://github.com/mantoudev/algorithms-practice/tree/master/01_LeetCode/003.%20Longest%20Substring%20Without%20Repeating%20Characters
 [014]: https://github.com/mantoudev/algorithms-practice/tree/master/01_LeetCode/014.%20Longest%20Common%20Prefix
